@@ -489,6 +489,10 @@ use Faker\Container\ContainerInterface;
  *
  * @method string mobileNumber()
  *
+ * @property string $nationalNumber
+ *
+ * @method string nationalNumber()
+ *
  * @property int $imei
  *
  * @method int imei()
