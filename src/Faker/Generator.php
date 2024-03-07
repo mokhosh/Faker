@@ -425,6 +425,10 @@ use Faker\Container\ContainerInterface;
  *
  * @method string creditCardNumber($type = null, $formatted = false, $separator = '-')
  *
+ * @property string $debitCardNumber
+ *
+ * @method string debitCardNumber($type = null, $formatted = false, $separator = '-')
+ *
  * @property \DateTime $creditCardExpirationDate
  *
  * @method \DateTime creditCardExpirationDate($valid = true)
