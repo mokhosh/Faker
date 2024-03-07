@@ -485,6 +485,10 @@ use Faker\Container\ContainerInterface;
  *
  * @method string e164PhoneNumber()
  *
+ * @property string $mobileNumber
+ *
+ * @method string mobileNumber()
+ *
  * @property int $imei
  *
  * @method int imei()
